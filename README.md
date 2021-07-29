@@ -1,5 +1,5 @@
 # windowsterminal
-Use this custom json file in Microsoft Windows terminal. Includes customer color schemes. 
+Use this custom json file in Microsoft Windows terminal. Includes custom color schemes. 
 
 #Microsoft Windows Terminal#
 https://www.microsoft.com/en-us/p/windows-terminal
