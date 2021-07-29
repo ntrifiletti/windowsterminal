@@ -1,4 +1,4 @@
-# windowsterminal
+# Windows Terminal
 Use this custom json file in Microsoft Windows terminal. Includes custom color schemes. 
 
 #Microsoft Windows Terminal#
